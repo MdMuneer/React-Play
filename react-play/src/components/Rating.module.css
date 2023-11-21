@@ -1,0 +1,22 @@
+.panel {
+  display: flex;
+  flex-direction: column;
+  color: #1e242e;
+  background-color: whitesmoke;
+  border-radius: 8px;
+  padding: 20px;
+  width: 500px;
+}
+
+.rateBtn {
+  height: 50px;
+  border-radius: 60px;
+  margin: 20px 10px;
+  border: none;
+  width: 50px;
+}
+
+.rateBtn:hover {
+  background-color: rgb(238, 196, 81);
+  border: none;
+}
